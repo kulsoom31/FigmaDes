@@ -1,0 +1,56 @@
+
+.logo{
+   
+position: absolute;
+width: 375px;
+height: 707px;
+left: 0px;
+top: 0px;
+
+background: url(photo-1561211974-8a2737b4dcac.jpg);
+}
+
+.main-btn {
+position: absolute;
+width: 167px;
+height: 52px;
+left: 192px;
+top: 757px;
+color: white;
+border-radius: 8px;
+background-color: black;
+}
+.main-btn2 {
+position: absolute;
+width: 167px;
+height: 52px;
+left: 16px;
+top: 757px;
+color:black;
+border-radius: 8px;
+background-color:white ;
+
+}
+.Bar {
+
+
+position: absolute;
+background: #000000;
+border-radius: 10px;
+Width: 135px;
+height: 5px;
+top: 829px;
+left: 120px;
+radius: 10px;
+
+}
+.compnent{
+
+position: absolute;
+width: 139px;
+height: 28px;
+left: 16px;
+top: 659px;
+    
+}
+
